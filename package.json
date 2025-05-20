@@ -1,0 +1,14 @@
+{
+  "name": "nft-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ethersproject/contracts": "^5.8.0",
+    "@ethersproject/providers": "^5.8.0",
+    "@ethersproject/units": "^5.8.0",
+    "@ethersproject/wallet": "^5.8.0",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.14.1"
+  }
+}
